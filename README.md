@@ -20,4 +20,4 @@ wget https://github.com/maintell/webBenchmark/releases/download/0.1/webBenchmark
 
 chmod +x webBenchmark_linux_x64
 
-./webBenchmark_linux_x64 -c 32 -s http://
+./webBenchmark_linux_x64 -c 32 -s http://xxx.com/xxx.mp4/jpg
