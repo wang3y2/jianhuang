@@ -14,3 +14,8 @@ Github Action JianHuang
 
 # 声明
 请勿用于非法用途
+
+
+wget https://github.com/maintell/webBenchmark/releases/download/0.1/webBenchmark_linux_x64
+chmod +x webBenchmark_linux_x64
+./webBenchmark_linux_x64 -c 32 -s http://
